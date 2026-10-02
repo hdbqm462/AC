@@ -23,5 +23,6 @@
 
 ## 📫 联系方式
 
-- 邮箱：your-email@example.com
+- Twitter / X：[@hdbqm462](https://x.com/hdbqm462)
+- 邮箱：[hdbqm462@gmail.com](mailto:hdbqm462@gmail.com)
 - 语言：English、中文
