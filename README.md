@@ -1,5 +1,5 @@
-# main
-#hdbqm462@gmail.com
+**English** | [简体中文](README.zh-CN.md)
+
 # Hi, I'm Luo 👋
 
 I'm a developer who builds things for iOS and enjoys turning everyday needs into small, useful apps. I work in both English and 中文, so feel free to reach out in either language.
@@ -25,7 +25,3 @@ An iOS app for tracking body weight and estimating body fat.
 
 - Email: your-email@example.com
 - Languages: English, 中文
-
-## 📊 GitHub Stats
-
-![Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdbqm462&show_icons=true)
