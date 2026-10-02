@@ -23,5 +23,6 @@ An iOS app for tracking body weight and estimating body fat.
 
 ## 📫 Get in Touch
 
-- Email: your-email@example.com
+- Twitter / X: [@hdbqm462](https://x.com/hdbqm462)
+- Email: [hdbqm462@gmail.com](mailto:hdbqm462@gmail.com)
 - Languages: English, 中文
